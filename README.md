@@ -131,6 +131,9 @@ Vo  （value object）  user对象----ok
 #### 5.1.2注册界面
  ![image](https://github.com/lijiaa1/demo/assets/114298041/8bbd1de5-3828-4ba5-83f5-ae7f3ebfa9c0)
 
+#### 5.1.3激活成功
+![image](https://github.com/lijiaa1/student-management-system/assets/114298041/9a5d3c95-8f5c-4212-b178-df3669dc3ec1)
+
 
     
 ### 5.2学生信息管理页面
