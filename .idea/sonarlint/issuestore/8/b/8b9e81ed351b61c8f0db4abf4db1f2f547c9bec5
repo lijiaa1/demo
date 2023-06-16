@@ -1,0 +1,12 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒŠóıÿÿÿÿ
+e
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(“üÕ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(£ ìƒÿÿÿÿÿ
+U	java:S8996";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S40426"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ãüÙ¹ıÿÿÿÿ
+W
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(å«û

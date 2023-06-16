@@ -1,0 +1,13 @@
+
+d
+java:S1192""IDefine a constant instead of duplicating this literal "message" 13 times.(™£É†úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ı©Íÿÿÿÿÿ
+V
+java:S24412";Make "Login" serializable or don't store it in the session.(ÿšñ’ùÿÿÿÿ
+Q
+java:S1128
+"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ùéŸÿĞ0
+W
+java:S1128":Remove this unused import 'javax.mail.MessagingException'.(ÇîŞ8ùéŸÿĞ0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8úéŸÿĞ0
