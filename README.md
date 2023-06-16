@@ -17,30 +17,33 @@
 
 ### 1.1实现功能
 （1）实现基本的增删改查功能。
+
 （2）实现登录注册及邮箱认证功能
+
 （3）共有以下数据库表：
+
  Login：用户登录表，随机生成邮件激活码
+ 
 ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/dc312577-31e8-414b-947c-79990c085950)
 
- 
  St_course：课程表
+ 
 ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/0c454561-4c24-4805-bb7d-6c7d1572f1f3)
 
- 
  St_drom：学生宿舍表
+ 
  ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/fc79bb43-9c90-4f85-96fe-5387193071a0)
 
-
  St_grade：学生成绩表
+ 
 ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/2724e9c4-7fc7-4d48-889e-3a7011ec5a3c)
 
-
-
  St_login：学生登录表
+ 
  ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/97580f4c-5983-4fac-974b-87aad0956e47)
 
-
  St_name：学生登记表
+ 
  ![image](https://github.com/lijiaa1/student-management-system/assets/114298041/b2707e1e-5a2f-44ea-a1c5-167e1ff237d4)
 
 
