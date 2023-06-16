@@ -1,5 +1,8 @@
 # 基于SpringBoot学生信息管理系统
 
+##sql文件[Uploading student.sql…]()
+
+
 设计实现与系统测试
 ## 1、设计目的
 
