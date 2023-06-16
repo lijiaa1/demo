@@ -42,12 +42,23 @@
 ## 4、总体设计
 ### 4.1模块设计
 学生信息管理系统总体设计系统功能模块图如下：
+
  ![image](https://github.com/lijiaa1/demo/assets/114298041/edc8dfb1-89b9-4e18-881b-21d7460d4ed0)
+ 
+ 
 图1  系统功能模块图
+
+
  ![image](https://github.com/lijiaa1/demo/assets/114298041/13bfbb49-089f-40af-ad90-71f3e367ba88)
+ 
+ 
 图2  系统登录流程图
+
+
 ![image](https://github.com/lijiaa1/demo/assets/114298041/c523d498-d6a2-401b-9da3-5e433812709a)
+
 图3  数据库E-R图
+
 #### 4.1.1文件组成结构
 为了直观地看到整个网站的文件包组成结构，下图将网站的组织结构已展示出来。
  ![image](https://github.com/lijiaa1/demo/assets/114298041/0bd7cefa-8a2e-422a-a1bc-f54b70b194c2)
@@ -86,7 +97,7 @@ Vo  （value object）  user对象----ok
 #### 5.1.1登录界面
  ![image](https://github.com/lijiaa1/demo/assets/114298041/892574fe-33c2-4079-8d47-221da63787bc)
 
-####5.1.2注册界面
+#### 5.1.2注册界面
  ![image](https://github.com/lijiaa1/demo/assets/114298041/8bbd1de5-3828-4ba5-83f5-ae7f3ebfa9c0)
 
 
